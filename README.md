@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @36at36
 - 👀 I’m interested in C# and Cyber Security
-- 🌱 I’m currently learning C# and HTML
+- 🌱 I’m currently learning C# and how to survive coding
 - ⚡ Fun fact: I'm not interesting, sorry
 
 <!---
